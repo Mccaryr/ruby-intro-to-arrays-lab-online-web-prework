@@ -12,6 +12,6 @@ def first_element(array)
   array[0]
 end
 
-def third_element(array)
-  array(2)
+def third_element(taylor_swift)
+  taylor_swift(2)
 end
